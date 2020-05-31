@@ -1,4 +1,6 @@
-# Connecting ...
+## Connecting ...
+<br><br>
+[Image of Pepper](images/pepper.jpg)
 I'm an AI researcher interested in topics like Causal Inference, Computer Vision, NLP, Robotics, Neuroscience, Hacking, Quantum Computing and summarizing, in how we can learn new things. The main goal of this site is sharing thoughts and projects related to those fascinating fields.
 
 ​
