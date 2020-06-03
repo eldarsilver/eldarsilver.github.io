@@ -1,6 +1,7 @@
 ## Connecting ...
 <br><br>
-![Image of Pepper](images/pepper_2.jpg#center)<br><br>
+<p align='center'>
+<img src='images/pepper_2.jpg'></p><br><br>
 I'm an AI researcher interested in topics like Causal Inference, Computer Vision, NLP, Robotics, Neuroscience, Hacking, Quantum Computing and summarizing, in how we can learn new things. The main goal of this site is sharing thoughts and projects related to those fascinating fields.
 
 ​
